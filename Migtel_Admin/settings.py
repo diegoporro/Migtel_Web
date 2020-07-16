@@ -26,7 +26,7 @@ SECRET_KEY = '=4je-$$f!jmut7k_3rr=%h^&%3i*%nfih382ug31-=ohq+!2t!'
 DEBUG = True
 
 ALLOWED_HOSTS = ['Migtel-web.herokuapp.com']
-# ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = []  
 
 # Application definition
 
