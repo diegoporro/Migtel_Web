@@ -25,8 +25,8 @@ SECRET_KEY = '=4je-$$f!jmut7k_3rr=%h^&%3i*%nfih382ug31-=ohq+!2t!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['Migtel-web.herokuapp.com']
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Migtel-web.herokuapp.com']
+# ALLOWED_HOSTS = []
 
 # Application definition
 
